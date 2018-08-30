@@ -1,0 +1,12 @@
+{
+  "name": "Udemy-React",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BooqFR/Udemy-React.git",
+  "author": "Booq <contact@booq.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
